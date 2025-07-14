@@ -46,16 +46,16 @@ Los evasores tiene en mayor proporción ( aproximadamente 2 a 1) contratos mes-a
   La mayor correlación negativa es contra duración(tenure), la mayor correlación positiva es respecto a cargos mensuales
   
 ## **Conclusiones**
-* La mayoria de los evasores se van al primer mes.
+* La mayoría de los evasores se van al primer mes.
 *  El costo mensual de los evasores es mayor que el de los no evasores.
-*  La mayoria de los evasores no son adultos mayores.
+*  La mayoría de los evasores no son adultos mayores.
 *  Los evasores tenian contratos mes-a-mes en mayor proporción.
 *  El promedio de duracion de los evasores es de 17 meses vs 37 meses en los no evasores.
 
 ## **Recomendaciones**
 
 * Ofrecerle paquetes anuales o mulitanuales a los clientes con una mejor tárifa mensual, incluyendole dos servicios de su elección entre : películas,TV,líneas multilpes, online-security.
-* A los clientes nuevos ademas de ofrecerle lo anterior, incluirle un mes gratis.
+* A los clientes nuevos además de ofrecerle lo anterior, incluirle un mes gratis.
 
 
   
